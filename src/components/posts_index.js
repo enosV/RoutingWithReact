@@ -5,3 +5,5 @@ class PostsIndex extends Component {
       return <div> Posts index </div>;
     }
 }
+
+export default PostsIndex;
